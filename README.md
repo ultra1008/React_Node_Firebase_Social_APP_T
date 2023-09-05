@@ -2,13 +2,6 @@
 
 I tried in this project to build an application similar to Twitter but certainly does not have all the features, but it contains the basic features such as (create an account, add a tweet, add a friend, like, comment, etc..).
 
-## Live Demo
-[twirrer.netlify.app](https://twirrer.netlify.app/)
-
-## Project Screenshot
-![Twirrer screenshot](./home.PNG)
-![Twirrer screenshot](./twirrer.PNG)
-
 ## Project Features:
 - Cache 📂
 - Nice design as Twitter design.
